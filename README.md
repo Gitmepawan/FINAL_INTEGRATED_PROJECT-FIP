@@ -5,8 +5,6 @@ Refurbished cosmetics is a brand that sells and buys new and old products to cos
 #PHOTOS USED
 Most of the photos are taken by myself.
 
-
-
 #wireframes
 https://github.com/Gitmepawan/FINAL_INTEGRATED_PROJECT-FIP/blob/feature-final-page/assets/wireframe.pdf
 https://github.com/Gitmepawan/FINAL_INTEGRATED_PROJECT-FIP/blob/feature-final-page/assets/wireframepage2.pdf
@@ -19,3 +17,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
 
+# credits
+Made and designed by pawan pandeya
+https://www.facebook.com/panda.pawan.7
+This is a 3 pages website. Pages are home page, gallery page, contact page.
+This is for our first semester FIP of fanshawe college 
