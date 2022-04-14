@@ -1,4 +1,6 @@
-# FINAL_INTEGRATED_PROJECT-FIP
+
+# FIP
+Fanshawe college interactive media design# FINAL_INTEGRATED_PROJECT-FIP
 This is for our fip of semester first fanshawe college project of building 3 page website.
 
 # ABOUT
